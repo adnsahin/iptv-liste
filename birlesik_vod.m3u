@@ -138575,26 +138575,26 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMXQrYk5vL05mUVZqSUNDajlEWXZU
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1446144.m3u
 #EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1 FHD" tvg-logo="http://server.beastxser2.xyz:80/images/472b9c2f8b4b7d7f380fe5c46f545265.png" group-title="TR VOD (FİLM)",TR: SINEMA TV 1 FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1267279.ts
-#EXTINF:-1 group-title="TR VOD (FİLM)",TR: SINEMA TV 1001 FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/163114
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 FHD" tvg-logo="" group-title="TR VOD (FİLM)",TR: SINEMA TV 1001 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285800.ts
 #EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/SiNEMA_TV1001.jpg" group-title="TR VOD (FİLM)",TR: SINEMA TV 1001 HD
 http://a83967.xyz:80/971424234/942337642/518520
-#EXTINF:-1 group-title="TR VOD (FİLM)",TR: SINEMA TV 1002 FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/40438
+#EXTINF:-1 tvg-id="SinemaTV1002.tr" tvg-name="TR: SINEMA TV 1002 FHD" tvg-logo="" group-title="TR VOD (FİLM)",TR: SINEMA TV 1002 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285801.ts
 #EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/SINEMA_TV_1002.png" group-title="TR VOD (FİLM)",TR: SINEMA TV 1002 HD
 http://a83967.xyz:80/971424234/942337642/518521
 #EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR VOD (FİLM)",TR: SiNEMA TV 2
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1446145.m3u
-#EXTINF:-1 group-title="TR VOD (FİLM)",TR: SINEMA TV 2 FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/41626
+#EXTINF:-1 tvg-id="SinemaTV2.tr" tvg-name="TR: SINEMA TV 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-2-tr.png" group-title="TR VOD (FİLM)",TR: SINEMA TV 2 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1286904.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema TV 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR VOD (FİLM)",Tr: Sinema TV 2 HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeGJKZCtyUmw3VTFOSW5IVzlpcjlQUStTZU80RE0xMkdUMU45b0NaSWt1Vg
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="TR: SINEMA TV ACTION HD" tvg-logo="" group-title="TR VOD (FİLM)",TR: SINEMA TV ACTION HD
 http://a83967.xyz:80/971424234/942337642/518202
 #EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 1 FHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210907159369.png" group-title="TR VOD (FİLM)",TR: SINEMA TV AILE 1 FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253012.ts
-#EXTINF:-1 group-title="TR VOD (FİLM)",TR: SINEMA TV AILE 2 FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/143012
+#EXTINF:-1 tvg-id="SinemaTVAile2.tr" tvg-name="TR: SINEMA TV AILE 2 FHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20210421003350.png" group-title="TR VOD (FİLM)",TR: SINEMA TV AILE 2 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1237854.ts
 #EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="TR: SINEMA TV AILE 2 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/SINEMA_AILE.png" group-title="TR VOD (FİLM)",TR: SINEMA TV AILE 2 HD
 http://a83967.xyz:80/971424234/942337642/518526
 #EXTINF:-1 group-title="TR VOD (FİLM)",TR: SINEMA TV AILE FHD

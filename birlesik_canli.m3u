@@ -2329,8 +2329,6 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMzhESWFRYWRWNEFsMzZCSkhwL3ky
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSM0xuaStNQWFYd3NWSjhQcjgzenI4QndHckpkbWpwd1ZENFRza08yNUU4WQ
 #EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH FHD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: BBC EARTH FHD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638200
-#EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="Tr: BBC Earth HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BBC_EART_HD.png" group-title="TR CANLI / BELGESEL",Tr: BBC Earth HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMXNPV2pJUnE0ZWlvWm9NR2ZLR2pkTzdlYm1aMExJL0RwaDBuTGU1a3NSRQ
 #EXTINF:-1 tvg-id="" tvg-name="TR: BELGESEL ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/EXXEN.7.24/BELGESEL.png" group-title="TR CANLI / BELGESEL",TR: BELGESEL ʜᴅ
 http://favoritv75.shop:8080/2smt2516/psp8J5z/628271
 #EXTINF:-1 tvg-id="" tvg-name="TR: CHASSE ET PECHE" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: CHASSE ET PECHE
@@ -2341,8 +2339,8 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSM0d2Q0tROEFVbHE5LzZkZFUyb3Fl
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638205
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/DISCOVERY_CHANNEL.jpg" group-title="TR CANLI / BELGESEL",TR: DISCOVERY CHANNEL
 http://a83967.xyz:80/971424234/942337642/518496
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: DISCOVERY CHANNEL FHD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638193
+#EXTINF:-1 tvg-id="DiscoveryChannelHD.tr" tvg-name="TR: DISCOVERY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023" group-title="TR CANLI / BELGESEL",TR: DISCOVERY CHANNEL FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/750259.ts
 #EXTINF:-1 group-title="TR CANLI / BELGESEL",TR: DISCOVERY CHANNEL HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/93794
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/DISCOVERY.jpg" group-title="TR CANLI / BELGESEL",TR: DISCOVERY CHANNEL SAT
@@ -2379,10 +2377,6 @@ http://a83967.xyz:80/971424234/942337642/518055
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638191
 #EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: NAT GEO WILD HD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638192
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: NATIONAL GEOGRAPHIC FHD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638189
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: NATIONAL GEOGRAPHIC HD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638190
 #EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Belgesel ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/NETFLIX/BELGESEL.png" group-title="TR CANLI / BELGESEL",TR: NETFLIX Belgesel ʜᴅ
 http://favoritv75.shop:8080/2smt2516/psp8J5z/628299
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Outdoor HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="TR CANLI / BELGESEL",Tr: Outdoor HD
@@ -2397,16 +2391,14 @@ http://favoritv75.shop:8080/2smt2516/psp8J5z/638199
 http://a83967.xyz:80/971424234/942337642/518494
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL FHD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: TRT BELGESEL FHD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638187
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://www.vod-logo.net/photos/bc83e19532f85f074fc1232720141574.jpg" group-title="TR CANLI / BELGESEL",TR: TRT BELGESEL HD
-http://a83967.xyz:80/971424234/942337642/518282
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://www.canlitv.mobi/kanallar/trt-belgesel.png" group-title="TR CANLI / BELGESEL",TR: TRT BELGESEL HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1279177.ts
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TRT_BELGESEL.jpg" group-title="TR CANLI / BELGESEL",TR: TRT BELGESEL HEVC
 http://a83967.xyz:80/971424234/942337642/518433
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL LOCAL SD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: TRT BELGESEL LOCAL SD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1260107.ts
 #EXTINF:-1 tvg-id="VIASATEXPLORE-0xa" tvg-name="Tr: Viasat Explore HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_exploar_picon.jpg" group-title="TR CANLI / BELGESEL",Tr: Viasat Explore HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSN2dlWERaUkFyV1dqQmtYVVJGVnNnN2xiR0NZWWtab0VuUXI5c2JHUElHTQ
-#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY FHD" tvg-logo="" group-title="TR CANLI / BELGESEL",TR: ViASAT HiSTORY FHD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638198
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="Tr: Viasat History HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_history.png" group-title="TR CANLI / BELGESEL",Tr: Viasat History HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNHQzQUU2V09BUzNCMmprd1NLYTFxS0ZkaWZkcnhTS3RSTzlYR2xRSk9BYg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Viasat Nature/history HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TR CANLI / BELGESEL",Tr: Viasat Nature/history HD
@@ -8379,8 +8371,6 @@ http://favoritv75.shop:8080/2smt2516/psp8J5z/590209
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSM1F6emEyVFdlTkhJalVLbWpJUUdvTmUxZHJkMzg3M1NkZTA5NytndWcvUA
 #EXTINF:-1 tvg-id="" tvg-name="TR: FM TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/FM.png" group-title="TR CANLI / DINI",TR: FM TV
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590210
-#EXTINF:-1 tvg-id="" tvg-name="Tr: FM TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fm_tv_tr.png" group-title="TR CANLI / DINI",Tr: FM TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeldFeFRLNkswRHF5VkFHbjdZc0J4czdIeVgrbS92RXNsNkllS0xhRVhiOA
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Gonca TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GONCA_TV_SD.png" group-title="TR CANLI / DINI",Tr: Gonca TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNXVaME12d2ptZUVoTjkyUmxROG9KRmhaNzE0Z2JmQXpZclNFd2h5V2NFNg
 #EXTINF:-1 tvg-id="" tvg-name="TR: HADI TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/HADI.TV.png" group-title="TR CANLI / DINI",TR: HADI TV
@@ -8397,8 +8387,6 @@ http://favoritv75.shop:8080/2smt2516/psp8J5z/590213
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590214
 #EXTINF:-1 tvg-id="" tvg-name="TR: KUDUS TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KUDUS.png" group-title="TR CANLI / DINI",TR: KUDUS TV
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590215
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Kudus TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KUDUS_TV_SD.png" group-title="TR CANLI / DINI",Tr: Kudus TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNTRlTEhrSG9xOEgwd0xQaWx3VFVYQ1Rwb29KVXZrWFBDb0pESVI4YW9Obg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Kuran-i Kerim Hatmi Serif HD" tvg-logo="https://play-lh.googleusercontent.com/ArhSMZ4TGydkqLPrjt1Jx3Bdkl3JwWSphh9Yj9-WHMjQ7HI_J4mqBIwmMylIVMagbw" group-title="TR CANLI / DINI",Tr: Kuran-i Kerim Hatmi Serif HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMWpNYnhlWWgzZGpERnM3NVJIY1A1czlXZVpRT0hRZ21VQWRSenMreHFDTg
 #EXTINF:-1 tvg-id="" tvg-name="TR: KURAN-ı KERİM ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/KURAN.png" group-title="TR CANLI / DINI",TR: KURAN-ı KERİM ʜᴅ
@@ -8407,16 +8395,12 @@ http://favoritv75.shop:8080/2smt2516/psp8J5z/590216
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590217
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Lalegul TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/LALEGUL_TV_SD.png" group-title="TR CANLI / DINI",Tr: Lalegul TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMkRzSkdEd3FVU0YwcGpacTk5bFo5dVBVRXpPV2FmUmtNVkhrUmVVK0d5Ng
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Medine Canli HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MEDINE_TV_SD.png" group-title="TR CANLI / DINI",Tr: Medine Canli HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSekFUOGR5d0tzK0RMd2wyTVYzTzhYS0RocERqVEVuNm8vaWV3RGo1QlFCRg
 #EXTINF:-1 tvg-id="NULL" tvg-name="Tr: Meltem TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MELTEM_TV_SD.png" group-title="TR CANLI / DINI",Tr: Meltem TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMktlMThBZnJ2aVJwQm1DZzlDZDA2RTlqZUhrYlVCRHk1d1JQdTgvcGNFdA
 #EXTINF:-1 tvg-id="NULL" tvg-name="Tr: On4 TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ON4_TV_SD.png" group-title="TR CANLI / DINI",Tr: On4 TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeS9wNE80VjNsaldsVFRBNUUrcUJGeWo0b3NMdE5DVStaaFdTeGJWU3hRaw
 #EXTINF:-1 tvg-id="" tvg-name="TR: REHBER TV" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/REHBER.png" group-title="TR CANLI / DINI",TR: REHBER TV
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590218
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Rehber TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/REHBER_TV_SD.png" group-title="TR CANLI / DINI",Tr: Rehber TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNVg0NkxybEd6VHdQN2s4NXpWdTlqWlJWRFFMajFpSjgrWWxsTG5zc0RVeA
 #EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV HD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/DINI/SEMERKAND.png" group-title="TR CANLI / DINI",TR: SEMERKAND TV HD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590219
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Sunna TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/SUNNA_TV.png" group-title="TR CANLI / DINI",Tr: Sunna TV HD
@@ -14659,6 +14643,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/74193
 http://a83967.xyz:80/971424234/942337642/518293
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: 360 FHD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/54291
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="http://vod-logo.net/photos/7e318105068f754a913c068afbdf7ca7.png" group-title="TR CANLI / GENEL",TR: 360 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1286901.ts
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/360.jpg" group-title="TR CANLI / GENEL",TR: 360 HEVC
 http://a83967.xyz:80/971424234/942337642/518441
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/360.jpg" group-title="TR CANLI / GENEL",TR: 360 SAT
@@ -14667,12 +14653,14 @@ http://a83967.xyz:80/971424234/942337642/518368
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1293723.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: 7 NUMARA HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/69784
-#EXTINF:-1 group-title="TR CANLI / GENEL",TR: A PARA FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/88343
+#EXTINF:-1 tvg-id="AParaHD.tr" tvg-name="TR: A PARA FHD" tvg-logo="" group-title="TR CANLI / GENEL",TR: A PARA FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1291914.ts
+#EXTINF:-1 tvg-id="AParaHD.tr" tvg-name="TR: A PARA HD" tvg-logo="https://www.canlitv.mobi/kanallar/a-para.png" group-title="TR CANLI / GENEL",TR: A PARA HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252845.ts
 #EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/A_PARA.jpg" group-title="TR CANLI / GENEL",TR: A PARA HEVC
 http://a83967.xyz:80/971424234/942337642/518448
-#EXTINF:-1 group-title="TR CANLI / GENEL",TR: A2 FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/129851
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 FHD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f31601cfef0b3061cf4276" group-title="TR CANLI / GENEL",TR: A2 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252269.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: A2 HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/45469
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: A2 HEVC
@@ -14701,8 +14689,8 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252850.ts
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeGNwYVdqbWo5K3R4Y0htUGNlU01mV2VzMklQYU50b1U2WGwwVnlmVks2cg
 #EXTINF:-1 tvg-id="akit.tr" tvg-name="TR: AKIT HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/AKIT.png" group-title="TR CANLI / GENEL",TR: AKIT HD
 http://a83967.xyz:80/971424234/942337642/518302
-#EXTINF:-1 group-title="TR CANLI / GENEL",TR: Akit TV FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/107619
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKIT TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="TR CANLI / GENEL",TR: AKIT TV FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261054.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Akit TV HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/21458
 #EXTINF:-1 tvg-id="akit.tr" tvg-name="TR: AKIT TV HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/AKIT.png" group-title="TR CANLI / GENEL",TR: AKIT TV HEVC
@@ -14775,6 +14763,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/109753
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/164848
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC EARTH" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BBC_EARTH.png" group-title="TR CANLI / GENEL",TR: BBC EARTH
 http://a83967.xyz:80/971424234/942337642/518503
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="TR CANLI / GENEL",TR: BBC EARTH HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252859.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BBN TURK SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccFq8mQVLziMeyeXuEKsV-oGsX0O5eja5jQ&s" group-title="TR CANLI / GENEL",TR: BBN TURK SD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252860.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: BE*IN BOX OFFICE 1 HD
@@ -14937,6 +14927,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/24552
 http://box1.tvben.xyz:2095/kaynaklive/irhh47gdh4p8dsdr4/274134
 #EXTINF:-1 tvg-id="davinci.tr" tvg-name="TR: DA VINCI HD" tvg-logo="" group-title="TR CANLI / GENEL",TR: DA VINCI HD
 http://a83967.xyz:80/971424234/942337642/518275
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV DENIZLI HD" tvg-logo="http://server.beastxser2.xyz:8080/images/6ff0b86cacc1639cd35c88f959599ac7.png" group-title="TR CANLI / GENEL",TR: DEHA TV DENIZLI HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252898.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Deniz Postasi TV
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452306.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: DENİZLİ DEHA TV
@@ -15057,14 +15049,16 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/7527
 http://a83967.xyz:80/971424234/942337642/518050
 #EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV HD" tvg-logo="http://51.91.105.31:57050/images/az.png" group-title="TR CANLI / GENEL",TR: FLASH TV HD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1293726.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FM TV HD" tvg-logo="" group-title="TR CANLI / GENEL",TR: FM TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1268373.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: FMTV
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/11071
 #EXTINF:-1 tvg-id="" tvg-name="TR: FREEDOM SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/FREEDOM.jpg" group-title="TR CANLI / GENEL",TR: FREEDOM SAT
 http://a83967.xyz:80/971424234/942337642/518384
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: FX
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452285.ts
-#EXTINF:-1 group-title="TR CANLI / GENEL",TR: FX FHD
-http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/20027
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="TR CANLI / GENEL",TR: FX FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252937.ts
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX TV" tvg-logo="http://www.vod-logo.net/photos/c05d80c7a7bc13984a4fba66795bb33e.jpg" group-title="TR CANLI / GENEL",TR: FX TV
 http://a83967.xyz:80/971424234/942337642/518219
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: GADDAR HD
@@ -15209,6 +15203,8 @@ http://a83967.xyz:80/971424234/942337642/518082
 http://a83967.xyz:80/971424234/942337642/518101
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: KANAL AVRUPA
 http://box1.tvben.xyz:2095/kaynaklive/irhh47gdh4p8dsdr4/274287
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA HD" tvg-logo="http://mediaiptv.tv:8080/assets/img/kanalavrupa.png" group-title="TR CANLI / GENEL",TR: KANAL AVRUPA HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285781.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_AVRUP.jpg" group-title="TR CANLI / GENEL",TR: KANAL AVRUPA SAT
 http://a83967.xyz:80/971424234/942337642/518356
 #EXTINF:-1 tvg-id="kanalb.tr" tvg-name="TR: KANAL B" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_B.jpg" group-title="TR CANLI / GENEL",TR: KANAL B
@@ -15295,6 +15291,8 @@ http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452290.ts
 https://content.tvkur.com/l/c77i84vbb2nj4i0fr80g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOY SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KOY.jpg" group-title="TR CANLI / GENEL",TR: KOY SAT
 http://a83967.xyz:80/971424234/942337642/518390
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV HD" tvg-logo="https://lo1.in/trk/kyo.png" group-title="TR CANLI / GENEL",TR: KOY TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1288250.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: KOZA TV  HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/22596
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Kral TV
@@ -15309,6 +15307,8 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281842.ts
 http://a83967.xyz:80/971424234/942337642/518462
 #EXTINF:-1 tvg-id="" tvg-name="TR: KUDUS SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KUDUS.jpg" group-title="TR CANLI / GENEL",TR: KUDUS SAT
 http://a83967.xyz:80/971424234/942337642/518391
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUDUS TV HD" tvg-logo="http://51.91.105.31:57050/images/az.png" group-title="TR CANLI / GENEL",TR: KUDUS TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285785.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Kudüs TV
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452340.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: KURTLAR VADİSİ PUSU ʜᴅ
@@ -15351,6 +15351,8 @@ http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452291.ts
 http://a83967.xyz:80/971424234/942337642/518393
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo="" group-title="TR CANLI / GENEL",TR: MAVI KARADENIZ
 http://a83967.xyz:80/971424234/942337642/518230
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b0/Mavi_Karadeniz_TV_Logosu.jpg/200px-Mavi_Karadeniz_TV_Logosu.jpg" group-title="TR CANLI / GENEL",TR: MAVI KARADENIZ HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252965.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/MAVI_KARADENIZ.jpg" group-title="TR CANLI / GENEL",TR: MAVI KARADENIZ SAT
 http://a83967.xyz:80/971424234/942337642/518394
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Mavi Karadeniz TV
@@ -15397,6 +15399,8 @@ http://a83967.xyz:80/971424234/942337642/518561
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/222419
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: MC EU
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452358.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MEDINE CANLI HD" tvg-logo="https://www.batitrakya.org/wp-content/uploads/2015/01/medine-tv.jpg" group-title="TR CANLI / GENEL",TR: MEDINE CANLI HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1293729.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: MEDINE CANLI SD" tvg-logo="https://www.batitrakya.org/wp-content/uploads/2015/01/medine-tv.jpg" group-title="TR CANLI / GENEL",TR: MEDINE CANLI SD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285788.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Medine TV
@@ -15467,6 +15471,10 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/104663
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/146231
 #EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: NATIONAL GEOGRAPHIC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/NATIONAL_GEOGRAPHIC_HD.jpg" group-title="TR CANLI / GENEL",TR: NATIONAL GEOGRAPHIC
 http://a83967.xyz:80/971424234/942337642/518502
+#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-name="TR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://lo1.in/trk/natg.png" group-title="TR CANLI / GENEL",TR: NATIONAL GEOGRAPHIC FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1282866.ts
+#EXTINF:-1 tvg-id="NationalGeographicHD.tr" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://lo1.in/trk/natg.png" group-title="TR CANLI / GENEL",TR: NATIONAL GEOGRAPHIC HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1291920.ts
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/NAT_GEO_WILD.png" group-title="TR CANLI / GENEL",TR: NATIONAL GEOGRAPHIC WILD
 http://a83967.xyz:80/971424234/942337642/518501
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://lo1.in/bulg/ntg.png" group-title="TR CANLI / GENEL",TR: NATIONAL GEOGRAPHIC WILD FHD
@@ -15543,6 +15551,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/222415
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/64513
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: RECEP İVEDİK HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/222407
+#EXTINF:-1 tvg-id="Rebel.cz" tvg-name="TR: REHBER TV HD" tvg-logo="http://server.beastxser2.xyz:80/images/cdf642cfb8df76ed0a8f79e8fdcd2013.png" group-title="TR CANLI / GENEL",TR: REHBER TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253000.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: RUMELI TV
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/213806
 #EXTINF:-1 tvg-id="" tvg-name="TR: RUMELİ TV SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/RUMEL%C4%B0.png" group-title="TR CANLI / GENEL",TR: RUMELİ TV SAT
@@ -15653,6 +15663,8 @@ http://a83967.xyz:80/971424234/942337642/518405
 http://a83967.xyz:80/971424234/942337642/518256
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: TEMPO TV
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/7755
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEMPO TV HD" tvg-logo="" group-title="TR CANLI / GENEL",TR: TEMPO TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285805.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TEMPO TV SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TEMPO.jpg" group-title="TR CANLI / GENEL",TR: TEMPO TV SAT
 http://a83967.xyz:80/971424234/942337642/518406
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: TESTERE HD
@@ -15673,10 +15685,12 @@ http://a83967.xyz:80/971424234/942337642/518409
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/94059
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: TJK TV
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452241.ts
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: TJK TV HD" tvg-logo="http://46.105.88.70:57050/images/az.png" group-title="TR CANLI / GENEL",TR: TJK TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253039.ts
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TLC.png" group-title="TR CANLI / GENEL",TR: TLC 4K
 http://a83967.xyz:80/971424234/942337642/518508
-#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC HD" tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" group-title="TR CANLI / GENEL",TR: TLC HD
-http://a83967.xyz:80/971424234/942337642/518280
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="TR CANLI / GENEL",TR: TLC HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285811.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: TMB TV
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/134471
 #EXTINF:-1 tvg-id="tmb.tr" tvg-name="TR: TMB TV SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TMB.png" group-title="TR CANLI / GENEL",TR: TMB TV SAT
@@ -15759,6 +15773,8 @@ http://a83967.xyz:80/971424234/942337642/518424
 http://a83967.xyz:80/971424234/942337642/518088
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV KAYSERI SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TV_KAYSERI.png" group-title="TR CANLI / GENEL",TR: TV KAYSERI SAT
 http://a83967.xyz:80/971424234/942337642/518425
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TR CANLI / GENEL",TR: TV NET HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285822.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: TV2
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/213807
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV264 SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TV264.jpg" group-title="TR CANLI / GENEL",TR: TV264 SAT
@@ -15795,6 +15811,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/82872
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/42005
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: VAN DAMME HD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/222408
+#EXTINF:-1 tvg-id="vatan.tr" tvg-name="TR: VATAN TV HD" tvg-logo="http://www.vod-logo.net/photos/77d28d48938c23c99df979ebe9c26118.jpg" group-title="TR CANLI / GENEL",TR: VATAN TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1273307.ts
 #EXTINF:-1 tvg-id="vav.tr" tvg-name="TR: VAV TV SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/VAV.jpg" group-title="TR CANLI / GENEL",TR: VAV TV SAT
 http://a83967.xyz:80/971424234/942337642/518429
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE" tvg-logo="" group-title="TR CANLI / GENEL",TR: VIASAT EXPLORE
@@ -15803,6 +15821,8 @@ http://a83967.xyz:80/971424234/942337642/518016
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285825.ts
 #EXTINF:-1 tvg-id="viasatexplore.tr" tvg-name="TR: VIASAT EXPLORER" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/VIASAT_EXPLORER.jpg" group-title="TR CANLI / GENEL",TR: VIASAT EXPLORER
 http://a83967.xyz:80/971424234/942337642/518505
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY FHD" tvg-logo="http://ipwebtv.dyndns.tv:8000/images/716e28f04ba9e701d5958c581436b9bc.png" group-title="TR CANLI / GENEL",TR: VIASAT HISTORY FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253067.ts
 #EXTINF:-1 tvg-id="viasatnature.tr" tvg-name="TR: VIASAT NATURE" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/Viasat_Nature.png" group-title="TR CANLI / GENEL",TR: VIASAT NATURE
 http://a83967.xyz:80/971424234/942337642/518511
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: VIKINGS ʜᴅ
@@ -15825,8 +15845,8 @@ http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/222411
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/437171.ts
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV" tvg-logo="" group-title="TR CANLI / GENEL",TR: YABAN TV
 http://a83967.xyz:80/971424234/942337642/518058
-#EXTINF:-1 group-title="TR CANLI / GENEL",TR: YABAN TV HD
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=687a0a04cc07f229ff855b03d4a35105
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="http://server.beastxser2.xyz:80/images/1b8594e802cd0b2600cd663465547ee9.png" group-title="TR CANLI / GENEL",TR: YABAN TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253069.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: YALI ÇAPKINI ʜᴅ
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/29210
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: YENI KOCAELI TV
@@ -15843,6 +15863,8 @@ http://a83967.xyz:80/971424234/942337642/518071
 http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452377.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: Yol Tv
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/10367
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="TR: YOL TV HD" tvg-logo="https://lo1.in/trk/yl.png" group-title="TR CANLI / GENEL",TR: YOL TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1289256.ts
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: ZEKİ METİN ʜᴅ
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/75839
 #EXTINF:-1 group-title="TR CANLI / GENEL",TR: ZONGULDAK KANAL Z
@@ -17085,14 +17107,12 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/579
 http://a83967.xyz:80/971424234/942337642/518249
 #EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: 24 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL24_HD.png" group-title="TR CANLI / HABER",Tr: 24 HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOGRpdDVlZUNCOWM0SzE5d2gxSW1YcXRTOENCTGFxclVGL1hFZVJsT1U5bQ
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 HD" tvg-logo="" group-title="TR CANLI / HABER",TR: 360 HD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638151
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/A_HABER.jpg" group-title="TR CANLI / HABER",TR: A HABER 4K
 http://a83967.xyz:80/971424234/942337642/518287
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="http://www.vod-logo.net/photos/bd4e0a255ca8a73150a96d8479c3b021.jpg" group-title="TR CANLI / HABER",TR: A HABER FHD
-http://a83967.xyz:80/971424234/942337642/518246
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TR CANLI / HABER",TR: A HABER HD
-http://a83967.xyz:80/971424234/942337642/518245
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="http://iptv.ws:8080/assets/img/a_haber.png" group-title="TR CANLI / HABER",TR: A HABER FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281821.ts
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="http://iptv.ws:8080/assets/img/a_haber.png" group-title="TR CANLI / HABER",TR: A HABER HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1109619.ts
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD LOCAL FHD" tvg-logo="http://iptv.ws:8080/assets/img/a_haber.png" group-title="TR CANLI / HABER",TR: A HABER HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261050.ts
 #EXTINF:-1 tvg-id="ANewsHD.tr" tvg-name="TR: A NEWS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgBSztXYJbDQstQljSemX2LUFBQB3Ka4D-Q&s" group-title="TR CANLI / HABER",TR: A NEWS FHD
@@ -17101,8 +17121,6 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1269601.ts
 http://a83967.xyz:80/971424234/942337642/518263
 #EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/A_NEWS.png" group-title="TR CANLI / HABER",TR: A NEWS HEVC
 http://a83967.xyz:80/971424234/942337642/518442
-#EXTINF:-1 tvg-id="APara.tr" tvg-name="Tr: A PARA HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_PARA_SD.png" group-title="TR CANLI / HABER",Tr: A PARA HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSKzIyeSs2NzJaeWh2RVVNa3VZZG1MbTlQTkdpaUxhY0R2eGRKNExONUdoMw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: ARTI 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/arti1.png" group-title="TR CANLI / HABER",Tr: ARTI 1 HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMEpsOXN2WWZaR0JMR1k5RjFreFErYXZVVVphT0trVXRCMWJPM3Z2MkNKRA
 #EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: BBC World HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/1_0_19_587_4_42_1A40000_0_0_0.png" group-title="TR CANLI / HABER",Tr: BBC World HD
@@ -17115,8 +17133,8 @@ https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1012.m3u
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638160
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Tr: Bloomberg HT FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR CANLI / HABER",Tr: Bloomberg HT FHD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOThncmhHY3BKbTYzK1g0bFRiUHhNL2xsN0xCQjErSDRIYTBMK0FGY0J0TA
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Tr: Bloomberg HT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR CANLI / HABER",Tr: Bloomberg HT HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMWFaU1N2S0lOYjAxTXhSYi9pSEpKUG9lMmZiOHVUMjEraUJWZGZlbHQzNw
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="https://gbzeottvsc11.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479056/082e0ce9-fe21-40c2-9230-9afe8ff7c971.png" group-title="TR CANLI / HABER",TR: BLOOMBERG HT HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1182117.ts
 #EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG HT HD LOCAL FHD" tvg-logo="https://gbzeottvsc11.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479056/082e0ce9-fe21-40c2-9230-9afe8ff7c971.png" group-title="TR CANLI / HABER",TR: BLOOMBERG HT HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261061.ts
 #EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERGHT 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BLOOMBERG.png" group-title="TR CANLI / HABER",TR: BLOOMBERGHT 4K
@@ -17128,7 +17146,7 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSK3JuT3VJR1UzcUtjWk1kekJSNHpn
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK FHD" tvg-logo="http://www.vod-logo.net/photos/fb15875c2229d9e0d9859d6eec089748.JPG" group-title="TR CANLI / HABER",TR: CNN TURK FHD
 http://a83967.xyz:80/971424234/942337642/518239
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="TR CANLI / HABER",TR: CNN TURK HD
-http://a83967.xyz:80/971424234/942337642/518240
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261064.ts
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD LOCAL FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: CNN TURK HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261063.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: CNN TüRK FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstmV5-eAgMZTXPwfOJqgFMmjOKUa1DEJEEw&s" group-title="TR CANLI / HABER",TR: CNN TüRK FHD
@@ -17151,8 +17169,8 @@ http://a83967.xyz:80/971424234/942337642/518460
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638141
 #EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD" tvg-logo="" group-title="TR CANLI / HABER",TR: GLOBAL HABER HD
 http://a83967.xyz:80/971424234/942337642/518244
-#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: HABER GLOBAL FHD
-http://a83967.xyz:80/971424234/942337642/518255
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="https://lo1.in/trk/harg.png" group-title="TR CANLI / HABER",TR: HABER GLOBAL FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1289248.ts
 #EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL HD" tvg-logo="https://lo1.in/trk/harg.png" group-title="TR CANLI / HABER",TR: HABER GLOBAL HD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252939.ts
 #EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL HD LOCAL FHD" tvg-logo="https://lo1.in/trk/harg.png" group-title="TR CANLI / HABER",TR: HABER GLOBAL HD LOCAL FHD
@@ -17173,8 +17191,8 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261079.ts
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281836.ts
 #EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/HALK.jpg" group-title="TR CANLI / HABER",TR: HALK TV
 http://a83967.xyz:80/971424234/942337642/518294
-#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: HALK TV FHD
-http://a83967.xyz:80/971424234/942337642/518254
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV FHD" tvg-logo="https://lo1.in/trk/hlk.png" group-title="TR CANLI / HABER",TR: HALK TV FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281837.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV HD" tvg-logo="" group-title="TR CANLI / HABER",TR: HALK TV HD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638138
 #EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/HALK.jpg" group-title="TR CANLI / HABER",TR: HALK TV HEVC
@@ -17203,8 +17221,8 @@ http://a83967.xyz:80/971424234/942337642/518286
 http://a83967.xyz:80/971424234/942337642/518285
 #EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/NTV.jpg" group-title="TR CANLI / HABER",TR: NTV 4K
 http://a83967.xyz:80/971424234/942337642/518291
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: NTV FHD
-http://a83967.xyz:80/971424234/942337642/518237
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: NTV FHD" tvg-logo="https://lo1.in/trk/nt.png" group-title="TR CANLI / HABER",TR: NTV FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285795.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: NTV HABER FHD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638133
 #EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER HD" tvg-logo="" group-title="TR CANLI / HABER",TR: NTV HABER HD
@@ -17239,8 +17257,8 @@ http://a83967.xyz:80/971424234/942337642/518408
 http://a83967.xyz:80/971424234/942337642/518289
 #EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: TGRT HABER FHD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/638143
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="http://www.vod-logo.net/photos/7e03848bd5ee27b948bbe6611af9e96c.jpg" group-title="TR CANLI / HABER",TR: TGRT HABER HD
-http://a83967.xyz:80/971424234/942337642/518247
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ea" group-title="TR CANLI / HABER",TR: TGRT HABER HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285806.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HD LOCAL FHD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ea" group-title="TR CANLI / HABER",TR: TGRT HABER HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261115.ts
 #EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TGRT_HABER.png" group-title="TR CANLI / HABER",TR: TGRT HABER HEVC
@@ -17269,8 +17287,6 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281864.ts
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261119.ts
 #EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TV100.jpg" group-title="TR CANLI / HABER",TR: TV 100 HEVC
 http://a83967.xyz:80/971424234/942337642/518455
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TR CANLI / HABER",TR: TV NET HD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638163
 #EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV100 FHD" tvg-logo="" group-title="TR CANLI / HABER",TR: TV100 FHD
 http://a83967.xyz:80/971424234/942337642/518257
 #EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV100 HD" tvg-logo="" group-title="TR CANLI / HABER",TR: TV100 HD
@@ -21271,8 +21287,8 @@ http://favoritv75.shop:8080/2smt2516/psp8J5z/638168
 http://a83967.xyz:80/971424234/942337642/518149
 #EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR FHD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR CANLI / SPOR",TR: A SPOR FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285754.ts
-#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="http://www.vod-logo.net/photos/d4665785f527aa40523b7e3e941c0d8f.JPG" group-title="TR CANLI / SPOR",TR: A SPOR HD
-http://a83967.xyz:80/971424234/942337642/518181
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR CANLI / SPOR",TR: A SPOR HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1232600.ts
 #EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD LOCAL FHD" tvg-logo="https://i.ibb.co/Fm85rCZ/a-spor-tr.png" group-title="TR CANLI / SPOR",TR: A SPOR HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261052.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tr: AS TV HD" tvg-logo="https://astv.com.tr/wp-content/uploads/2025/10/asx.png" group-title="TR CANLI / SPOR",Tr: AS TV HD
@@ -21397,8 +21413,8 @@ http://noxtin5.noxxtinyur.xyz:80/live/3muratkarabudak24/5336139808/452303.ts
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSL0VmT1pHaFRPRTNTS3RHM001amd5Qkl1dmU2dmNENUpiSU0zbTdPMXpueQ
 #EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 FHD (hevc)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR CANLI / SPOR",Tr: BEIN Sports 1 FHD (hevc)
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMTJMVVhId3ZCMmlRRUxmQmtxeGM4Z3F0cm9uQWdDZ3pUa0JlQm4yL0lmdQ
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 1 HD
-http://a83967.xyz:80/971424234/942337642/518158
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fe/BeIN_Sports_1HD_%282014%29.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 1 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261057.ts
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD BACKUP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 1 HD BACKUP
 http://a83967.xyz:80/971424234/942337642/518159
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 SD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BEIN_SPORTS11.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 1 SD
@@ -21409,8 +21425,8 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1291917.ts
 http://a83967.xyz:80/971424234/942337642/409658
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 2 FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1289247.ts
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://vod-logo.net/photos/4a21cfd91ff740f0cd56d1fdaf41abbe.jpg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 2 HD
-http://a83967.xyz:80/971424234/942337642/518161
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-2-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 2 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281827.ts
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD BACKUP" tvg-logo="http://vod-logo.net/photos/4a21cfd91ff740f0cd56d1fdaf41abbe.jpg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 2 HD BACKUP
 http://a83967.xyz:80/971424234/942337642/518162
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 UHD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BEIN_SPORTS2.jpg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 2 UHD
@@ -21419,16 +21435,16 @@ http://a83967.xyz:80/971424234/942337642/409659
 http://a83967.xyz:80/971424234/942337642/409661
 #EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 3 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="TR CANLI / SPOR",Tr: BEIN Sports 3 FHD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOGtWQkN6QUhsZGFSbXNxelZmZGtNZ3F0VDhqNnNwWDJ4VlZBbVlQNEdneg
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 3 HD
-http://a83967.xyz:80/971424234/942337642/518163
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 3 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/968791.ts
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD BACKUP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 3 HD BACKUP
 http://a83967.xyz:80/971424234/942337642/518164
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BEIN_SPORTS.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 4 4K
 http://a83967.xyz:80/971424234/942337642/409663
 #EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 4 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="TR CANLI / SPOR",Tr: BEIN Sports 4 FHD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSL1Jaa3FPSHBRSlhNVTI1cFBIcFYvN1dXb0U1bCt4Ym1aSzVRWU8rYy9ycg
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 4 HD
-http://a83967.xyz:80/971424234/942337642/518165
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 4 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1109628.ts
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD BACKUP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS 4 HD BACKUP
 http://a83967.xyz:80/971424234/942337642/518166
 #EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 5 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR CANLI / SPOR",Tr: BEIN Sports 5 FHD
@@ -21447,8 +21463,8 @@ http://a83967.xyz:80/971424234/942337642/409667
 http://a83967.xyz:80/971424234/942337642/409665
 #EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports MAX 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="TR CANLI / SPOR",Tr: BEIN Sports MAX 1 FHD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNnJ1S3BXbU41YWdXU3VjeEkxSXUvQnhXZU5uZmV5Y3pxREgxQlo2dnlHeA
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="http://www.vod-logo.net/photos/4434f9887fdebe9f85bdc992401d33bb.jpg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS MAX 1 HD
-http://a83967.xyz:80/971424234/942337642/518167
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS MAX 1 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252883.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BEIN_SPORTS_MAX2.jpg" group-title="TR CANLI / SPOR",TR: BEIN SPORTS MAX 2
 http://a83967.xyz:80/971424234/942337642/409666
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="TR CANLI / SPOR",TR: BEIN SPORTS MAX 2 FHD
@@ -21981,8 +21997,6 @@ http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253038.ts
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590163
 #EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR FHD" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/TR.SPOR/TIVIBU.SPOR.png" group-title="TR CANLI / SPOR",TR: TiViBUSPOR FHD
 http://favoritv75.shop:8080/2smt2516/psp8J5z/590164
-#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD" tvg-logo="" group-title="TR CANLI / SPOR",TR: TJK TV HD
-http://favoritv75.shop:8080/2smt2516/psp8J5z/638179
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Trendyol 1. LIG TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/6nfQCY3/Trendyol-1-Lig-Haftan-n-zetleri.png" group-title="TR CANLI / SPOR",Tr: Trendyol 1. LIG TV HD (mac Ozetleri)
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSK1V0TzZIMDhueUd4VXNFeTk3TVlTemNVVXJCNTFobC9sS0VaeXd0NmFlZw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Trendyol Süper LIG TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/c20vSSW/Trendyol-S-per-Lig-Haftan-n-zetleri.png" group-title="TR CANLI / SPOR",Tr: Trendyol Süper LIG TV HD (mac Ozetleri)
@@ -23749,8 +23763,8 @@ http://a83967.xyz:80/971424234/942337642/518326
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1267261.ts
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV FHD" tvg-logo="http://www.vod-logo.net/photos/4e819f590fc9ba08e7e7f5b46905f976.jpg" group-title="TR CANLI / ULUSAL",TR: ATV FHD
 http://a83967.xyz:80/971424234/942337642/518026
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: ATV HD
-http://a83967.xyz:80/971424234/942337642/518027
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://static.epg.best/tr/ATV.tr.png" group-title="TR CANLI / ULUSAL",TR: ATV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1251156.ts
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD LOCAL FHD" tvg-logo="https://static.epg.best/tr/ATV.tr.png" group-title="TR CANLI / ULUSAL",TR: ATV HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261055.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Bengu TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BENGU_TURK_SD.png" group-title="TR CANLI / ULUSAL",Tr: Bengu TURK HD
@@ -23763,8 +23777,8 @@ http://a83967.xyz:80/971424234/942337642/518039
 http://a83967.xyz:80/971424234/942337642/518344
 #EXTINF:-1 group-title="TR CANLI / ULUSAL",TR: BEYAZ TV FHD
 http://dzcvip1.xyz:2095/AHMETBABA/ctZjUe9z6n/139161
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: BEYAZ TV HD
-http://a83967.xyz:80/971424234/942337642/518040
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://m.reddxc.com/tr/beyaztv.png" group-title="TR CANLI / ULUSAL",TR: BEYAZ TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1251160.ts
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD LOCAL FHD" tvg-logo="http://m.reddxc.com/tr/beyaztv.png" group-title="TR CANLI / ULUSAL",TR: BEYAZ TV HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261060.ts
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/BEYAZ.jpeg" group-title="TR CANLI / ULUSAL",TR: BEYAZ TV HEVC
@@ -23785,8 +23799,8 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMklOVllINmRjUkh2YS94WTBTR013
 http://a83967.xyz:80/971424234/942337642/518011
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/FOX_CRIME.png" group-title="TR CANLI / ULUSAL",TR: FOX CRIME HD
 http://a83967.xyz:80/971424234/942337642/518568
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="TR CANLI / ULUSAL",TR: FOX HD
-http://a83967.xyz:80/971424234/942337642/518029
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-800.png" group-title="TR CANLI / ULUSAL",TR: FOX HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252936.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD TR HD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-800.png" group-title="TR CANLI / ULUSAL",TR: FOX HD TR HD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261076.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD TR HD HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: FOX HD TR HD HD
@@ -23801,8 +23815,8 @@ http://a83967.xyz:80/971424234/942337642/518343
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1293727.ts
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_7.png" group-title="TR CANLI / ULUSAL",TR: KANAL 7 4K
 http://a83967.xyz:80/971424234/942337642/518353
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA FHD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: KANAL 7 AVRUPA FHD
-http://a83967.xyz:80/971424234/942337642/518038
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA FHD" tvg-logo="https://lo1.in/trk/kl7.png" group-title="TR CANLI / ULUSAL",TR: KANAL 7 AVRUPA FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252951.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA HEVC" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_AVRUP.jpg" group-title="TR CANLI / ULUSAL",TR: KANAL 7 AVRUPA HEVC
 http://a83967.xyz:80/971424234/942337642/518457
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 EU" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_7.png" group-title="TR CANLI / ULUSAL",TR: KANAL 7 EU
@@ -23811,16 +23825,16 @@ http://a83967.xyz:80/971424234/942337642/518355
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1290409.ts
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 FHD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: KANAL 7 FHD
 http://a83967.xyz:80/971424234/942337642/518037
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://www.vod-logo.net/photos/dd46117214243279219a06ac1877a77c.jpg" group-title="TR CANLI / ULUSAL",TR: KANAL 7 HD
-http://a83967.xyz:80/971424234/942337642/518036
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://m.reddxc.com/tr/kanal7.png" group-title="TR CANLI / ULUSAL",TR: KANAL 7 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1252952.ts
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD LOCAL FHD" tvg-logo="http://m.reddxc.com/tr/kanal7.png" group-title="TR CANLI / ULUSAL",TR: KANAL 7 HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261081.ts
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/KANAL_D.jpg" group-title="TR CANLI / ULUSAL",TR: KANAL D 4K
 http://a83967.xyz:80/971424234/942337642/518328
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: KANAL D FHD
 http://a83967.xyz:80/971424234/942337642/518020
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://www.vod-logo.net/photos/8eb1e4eab5fa84982e4461bb8c5ec948.jpg" group-title="TR CANLI / ULUSAL",TR: KANAL D HD
-http://a83967.xyz:80/971424234/942337642/518019
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://m.reddxc.com/tr/kanald.png" group-title="TR CANLI / ULUSAL",TR: KANAL D HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1251164.ts
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD LOCAL FHD" tvg-logo="http://m.reddxc.com/tr/kanald.png" group-title="TR CANLI / ULUSAL",TR: KANAL D HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261082.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D SD" tvg-logo="https://i.hizliresim.com/dvybnyl.png" group-title="TR CANLI / ULUSAL",TR: KANAL D SD
@@ -23855,8 +23869,8 @@ http://a83967.xyz:80/971424234/942337642/518333
 http://a83967.xyz:80/971424234/942337642/518335
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: SHOW TV FHD
 http://a83967.xyz:80/971424234/942337642/518023
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://www.vod-logo.net/photos/d2c0cadc6472b024409cb6038a13cee6.jpg" group-title="TR CANLI / ULUSAL",TR: SHOW TV HD
-http://a83967.xyz:80/971424234/942337642/518022
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://51.91.105.31:57050/images/showtv.png" group-title="TR CANLI / ULUSAL",TR: SHOW TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1253005.ts
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD LOCAL FHD" tvg-logo="http://51.91.105.31:57050/images/showtv.png" group-title="TR CANLI / ULUSAL",TR: SHOW TV HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261098.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TüRK FHD" tvg-logo="https://www.canlitv.mobi/kanallar/show-turk.png" group-title="TR CANLI / ULUSAL",TR: SHOW TüRK FHD
@@ -23867,16 +23881,16 @@ http://a83967.xyz:80/971424234/942337642/518332
 http://a83967.xyz:80/971424234/942337642/518331
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="http://www.vod-logo.net/photos/ea502f2952d22af66ac15ffe79d120c4.jpg" group-title="TR CANLI / ULUSAL",TR: STAR TV FHD
 http://a83967.xyz:80/971424234/942337642/518017
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: STAR TV HD
-http://a83967.xyz:80/971424234/942337642/518018
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="TR CANLI / ULUSAL",TR: STAR TV HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1052621.ts
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD LOCAL FHD" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="TR CANLI / ULUSAL",TR: STAR TV HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1261110.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV SD [Mobile]" tvg-logo="https://i.hizliresim.com/a2fyydp.png" group-title="TR CANLI / ULUSAL",TR: STAR TV SD [Mobile]
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/20.m3u
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TEVE2.jpg" group-title="TR CANLI / ULUSAL",TR: TEVE 2 4K
 http://a83967.xyz:80/971424234/942337642/518346
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://www.vod-logo.net/photos/5a23a3eab88cc79c2d981952e4c37198.jpg" group-title="TR CANLI / ULUSAL",TR: TEVE 2 FHD
-http://a83967.xyz:80/971424234/942337642/518045
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="https://static.epg.best/tr/TV2.tr.png" group-title="TR CANLI / ULUSAL",TR: TEVE 2 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1281859.ts
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TEVE 2 HD
 http://a83967.xyz:80/971424234/942337642/518046
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD LOCAL FHD" tvg-logo="https://static.epg.best/tr/TV2.tr.png" group-title="TR CANLI / ULUSAL",TR: TEVE 2 HD LOCAL FHD
@@ -23911,8 +23925,8 @@ http://a83967.xyz:80/971424234/942337642/518430
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285813.ts
 #EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TRT_TURK.png" group-title="TR CANLI / ULUSAL",TR: TRT 2 4K
 http://a83967.xyz:80/971424234/942337642/518322
-#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TRT 2 FHD
-http://a83967.xyz:80/971424234/942337642/518044
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/t/trt_2_logo.png" group-title="TR CANLI / ULUSAL",TR: TRT 2 FHD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1233439.ts
 #EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TRT 2 HD
 http://a83967.xyz:80/971424234/942337642/518043
 #EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR: TRT 4K" tvg-logo="http://www.vod-logo.net/photos/dfae2e550d68daa68418269f1740e764.jpg" group-title="TR CANLI / ULUSAL",TR: TRT 4K
@@ -23921,12 +23935,12 @@ http://a83967.xyz:80/971424234/942337642/518041
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1279175.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT ARABI SAT" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TRT_ARABI.png" group-title="TR CANLI / ULUSAL",TR: TRT ARABI SAT
 http://a83967.xyz:80/971424234/942337642/518413
-#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TRT AVAZ HD
-http://a83967.xyz:80/971424234/942337642/518069
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://static.epg.best/tr/TRTAvaz.tr.png" group-title="TR CANLI / ULUSAL",TR: TRT AVAZ HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1248775.ts
 #EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR: TRT DİYANAT TV" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TRT DİYANAT TV
 http://a83967.xyz:80/971424234/942337642/518064
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TRT_EBA.png" group-title="TR CANLI / ULUSAL",TR: TRT EBA HD
-http://a83967.xyz:80/971424234/942337642/518306
+#EXTINF:-1 tvg-id="TRTEBATVİLKOKULHD.tr" tvg-name="TR: TRT EBA HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TRT EBA HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1289253.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ORTAOKUL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TRT_EBA_TV_Ortaokul_logo.svg/1280px-TRT_EBA_TV_Ortaokul_logo.svg.png" group-title="TR CANLI / ULUSAL",TR: TRT EBA ORTAOKUL SD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285816.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA TV HD ILKOKUL" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TRT_EBA_ILKOKUL.png" group-title="TR CANLI / ULUSAL",TR: TRT EBA TV HD ILKOKUL
@@ -23991,8 +24005,8 @@ http://a83967.xyz:80/971424234/942337642/518033
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1285820.ts
 #EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://vod-logo.net/photos/24d6e10458b097cdf99af63061ce059f.JPG" group-title="TR CANLI / ULUSAL",TR: TV 8.5 FHD
 http://a83967.xyz:80/971424234/942337642/518034
-#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="TR CANLI / ULUSAL",TR: TV 8.5 HD
-http://a83967.xyz:80/971424234/942337642/518035
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="http://m.reddxc.com/tr/tv8.5.png" group-title="TR CANLI / ULUSAL",TR: TV 8.5 HD
+http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1233464.ts
 #EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD LOCAL FHD" tvg-logo="http://m.reddxc.com/tr/tv8.5.png" group-title="TR CANLI / ULUSAL",TR: TV 8.5 HD LOCAL FHD
 http://xh9rjf34.k21febcom.xyz:80/play/TFHVYQQ22G/cT7hxEx98tCG/1270336.ts
 #EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8 5 4K" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Turkey/TV8_5.jpg" group-title="TR CANLI / ULUSAL",TR: TV8 5 4K
@@ -24923,8 +24937,6 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNnRiU3IxYVBxUFJwWHgwcHZQZmJM
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSLzlkaHdPMGZNb2dpWE82ZkY2UjBENHlVZEF5bis0cHBNdmhUNUZnUHFiRg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Ciftci TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CIFTCI_TV_SD.png" group-title="TR CANLI / YEREL",Tr: Ciftci TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSemtRSzVWRXFwSHRrZXUzZkx4VDE3Smhlcm1DcGVhSVFKUnYzeXpwYzhOQQ
-#EXTINF:-1 tvg-id="" tvg-name="Tr: DEHA TV Denizli HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DEHA_TV_SD.png" group-title="TR CANLI / YEREL",Tr: DEHA TV Denizli HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMWZLWVVDZWl4aHVVS1JDbW9ZcVpUcktXSGdaVS92MEcxS0VzV2ZsU3dvOA
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Edessa TV Sanliurfa HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EDESSA_TV_SD.png" group-title="TR CANLI / YEREL",Tr: Edessa TV Sanliurfa HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNzkwbjhtU1E2OGoxbkd6YUJkTjFMTmtrNnQ1YW9aNytZd1Z5MnZhbEg4eA
 #EXTINF:-1 tvg-id="" tvg-name="TR: EKIN TURK" tvg-logo="https://i.hizliresim.com/6buctpw.jpg" group-title="TR CANLI / YEREL",TR: EKIN TURK
@@ -24959,8 +24971,6 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMkpNRTYxMGNXelh0SVRaOW1LTkpq
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMXhoYTFwVEgvc0QyNExmWFJIVXVURVFNdmVTdHh5RXZsZm9Va1ZDdS9scg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Kanal 68 Aksaray HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL68_SD.png" group-title="TR CANLI / YEREL",Tr: Kanal 68 Aksaray HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeUsvM0xnallyaktNS2dhTDZnV2VxMlN3UE1FNkJJV3JVL2ptVm1hc0ltZQ
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Kanal Avrupa HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_AVRUPA_SD.png" group-title="TR CANLI / YEREL",Tr: Kanal Avrupa HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMVJja21zd1FvWjNDQVJxNkh0YTZyZkQ2d1hNSVNYY2NmZmc2em11U1pVNQ
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Kanal Firat Elazig HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanal_firat.png" group-title="TR CANLI / YEREL",Tr: Kanal Firat Elazig HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMlNjbmQ4ellnZ2tHOFpCSlJRT1dKeTBtSW1yTzEvT1EzYWgzbnVpeG9Ydw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Kanal T Kibris HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANALT_SD.png" group-title="TR CANLI / YEREL",Tr: Kanal T Kibris HD
@@ -24977,16 +24987,12 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOE1uQ0pidktrOWltRmxkSlJSaERX
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1455289.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Tr: KON TV Konya HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KONTV_SD.png" group-title="TR CANLI / YEREL",Tr: KON TV Konya HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSM3Badi9UVURGRVpLSFJjVWw5cmVDLzdkVTc5ck16V3FCdno0cHRHZUJTUQ
-#EXTINF:-1 tvg-id="" tvg-name="Tr: KOY TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOY_TV_SD.png" group-title="TR CANLI / YEREL",Tr: KOY TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSdzk0SnVXdHVwVTVTK2dEMGFBc2N2akl2QzJHWFRMZFliVGRwR3g0amNvMQ
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOZA TV" tvg-logo="https://i.hizliresim.com/fgkucng.jpg" group-title="TR CANLI / YEREL",TR: KOZA TV
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1432709.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Tr: KOZA TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOZA_SD.png" group-title="TR CANLI / YEREL",Tr: KOZA TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSM1RyQnpMQ0psWk5RbVdrNmhtTU5EcmFEVEtNeHpsb05PWnpEdHNsQkF2Tw
 #EXTINF:-1 tvg-id="NULL" tvg-name="Tr: LINE TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/LINE_TV_SD.png" group-title="TR CANLI / YEREL",Tr: LINE TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNGtveHhUK2RnUFNzYk1ocVhnNlJIZlhYdWh1VFZ2eENIVStVZnJBVElXNw
-#EXTINF:-1 tvg-id="NULL" tvg-name="Tr: MAVI Karadeniz HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MAVI_KARADENIZ_SD.png" group-title="TR CANLI / YEREL",Tr: MAVI Karadeniz HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSd3B2YmJ4Zi8zcm56TWtFcmF4Ny80NXVnY05WTm9pVWpKM1FFRDJ6S0xzcg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: MC EU HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/mc_eu.png" group-title="TR CANLI / YEREL",Tr: MC EU HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOEhWMlphS01zcVczSTJkcm1abUg0b0JJSUhqZXBRQ3NFVnRFeWlMTW1VeA
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC LOCAL FHD" tvg-logo="" group-title="TR CANLI / YEREL",TR: NATIONAL GEOGRAPHIC LOCAL FHD
@@ -25011,8 +25017,6 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSL2dxeHpFTXZua2dDaG1idEE3YzFx
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1432711.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Tr: TEK Rumeli TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tek_rumeli_tv.png" group-title="TR CANLI / YEREL",Tr: TEK Rumeli TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSejFsS1hYZklJZmFTN0VxZy80aTc5U3U3bmN6T0xiaGEvMDJVd1ZBUWFtZQ
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Tempo TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEMPOTV_SD.png" group-title="TR CANLI / YEREL",Tr: Tempo TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSeUdoMnl1Zk1PbWtzV1JoMi9UbEZObjhGeVVGL2hLMTdObEFQOUxKSFhTaw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: TMB TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TMB_SD.png" group-title="TR CANLI / YEREL",Tr: TMB TV HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSL1loMUI2RFVUUVVTZDF0VTFrSlhRbGZCMm02elc0VjZ5dE5XZ2dZTXpocg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: TON TV Canakkale HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TONTV_SD.png" group-title="TR CANLI / YEREL",Tr: TON TV Canakkale HD
@@ -25031,16 +25035,12 @@ http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSKzBuZlRGTWs1b3lYN0RqNzhxWHJu
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSOXdnVFdlRGdoVVFpbXVzWjUrM3Y0R1Evckc0eVc1U1pvOWpnaGhWQmFFTw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Tv1 Kayseri HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV1_SD.png" group-title="TR CANLI / YEREL",Tr: Tv1 Kayseri HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSMWpEbmlSQ0RmM3psMEN2YjlFR3NHQnlFOEVBQ3ZxSGhuVm53bURIcU5qLw
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Vatan TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/vatan.png" group-title="TR CANLI / YEREL",Tr: Vatan TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSejExdWtzQ1J6QUtoU3R2UlFXNU9xN0VoZnpCeng5UlhVSFhyd0VMeVZrVA
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Vizyon58 Sivas HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/VIZYON_58_TV.png" group-title="TR CANLI / YEREL",Tr: Vizyon58 Sivas HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSem5BLzhLMDNGQ3dueWovVmJiYVVycXgrQkN6aU14ay9OYmRBZVdGVktYbg
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Vuslat TV Malatya HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/VUSLAT_TV_SD.png" group-title="TR CANLI / YEREL",Tr: Vuslat TV Malatya HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNzlRVjhhM0RuZkRWSUpYSTNoSWFiMnVNd0E3QXZjeFFGUUFPenlVczU0dw
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Yildiz EN TV RIZE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/yildiz_rize.png" group-title="TR CANLI / YEREL",Tr: Yildiz EN TV RIZE HD
 http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSNW5hMTRKdFZWUGkwNEJNZytySFpMYTR6Q2F4UnAydmZLYStWUzNtbnBsNg
-#EXTINF:-1 tvg-id="" tvg-name="Tr: YOL TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/YOL_TV_SD.png" group-title="TR CANLI / YEREL",Tr: YOL TV HD
-http://sunucu.info:8080/UTRzYlFkb3RySVVoeUFMR01QQ2VSN1VLRTRFM1hUMVg5enBpTUpoYk11bi9FM0lYa3I2SG45OHZ0OFZ1NW15aw
 #EXTINF:-1 tvg-id="" tvg-name="TRAKYA TURK HD" tvg-logo="https://i.hizliresim.com/5k3qj4k.jpg" group-title="TR CANLI / YEREL",TRAKYA TURK HD
 https://ozgur99.shop/live/ucarzade/uFTJRnRXuV/1455306.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV 264 SAKARYA TV" tvg-logo="https://i.hizliresim.com/mywamb0.jpg" group-title="TR CANLI / YEREL",TV 264 SAKARYA TV
