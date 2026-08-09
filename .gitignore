@@ -1,3 +1,5 @@
-# turk.m3u 100MB'dan buyuk oldugu icin GitHub'a siginmaz.
-# Sıkıştırılmış hali (turk.m3u.gz) repo'da tutulur; push.ps1 otomatik uretir.
+# turk.m3u 100MB'dan buyuk oldugu icin GitHub'a sığmaz.
+# Bunun yerine bol_turk.py ile bolunmus hali (turk1.m3u ... turk4.m3u) repo'da tutulur;
+# push.ps1 her push'ta otomatik boler.
 turk.m3u
+turk.m3u.gz

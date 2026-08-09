@@ -8,19 +8,15 @@ $env:Path = "$env:LOCALAPPDATA\PortableGit\cmd;$env:Path"
 $repo = "C:\Users\MONSTER\Desktop\openai-test\TelegramArama\iptv-liste"
 
 # turk.m3u 100MB'dan buyuk oldugu icin GitHub'a sığmaz.
-# turk.m3u degistiyse once gzip ile turk.m3u.gz uretilir ve o push edilir.
+# turk.m3u degistiyse once bol_turk.py ile 4 esit parcaya bolunur
+# (turk1.m3u ... turk4.m3u) ve o parcalar push edilir.
 $turkRaw = Join-Path $repo "turk.m3u"
-$turkGz  = Join-Path $repo "turk.m3u.gz"
 if (Test-Path $turkRaw) {
-    Write-Host "turk.m3u gzip sikistiriliyor..." -ForegroundColor Cyan
-    $inStream  = [System.IO.File]::OpenRead($turkRaw)
-    $outStream = [System.IO.File]::Create($turkGz)
-    $gzip = New-Object System.IO.Compression.GZipStream($outStream, [System.IO.Compression.CompressionLevel]::Optimal)
-    $inStream.CopyTo($gzip)
-    $gzip.Dispose()
-    $outStream.Dispose()
-    $inStream.Dispose()
-    Write-Host "tamam -> turk.m3u.gz" -ForegroundColor Green
+    Write-Host "turk.m3u 4 parcaya bolunuyor..." -ForegroundColor Cyan
+    Push-Location $repo
+    python bol_turk.py
+    Pop-Location
+    Write-Host "tamam -> turk1.m3u ... turk4.m3u" -ForegroundColor Green
 }
 
 # Degisiklik var mi?
@@ -44,5 +40,9 @@ Write-Host ""
 Write-Host "TAMAM! Adresler (degismedi):" -ForegroundColor Green
 Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/panel.m3u"
 Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/liste.m3u"
-Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/turk.m3u.gz  (gzip - player otomatik acar)"
+Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/turk1.m3u"
+Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/turk2.m3u"
+Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/turk3.m3u"
+Write-Host "  https://raw.githubusercontent.com/adnsahin/iptv-liste/main/turk4.m3u"
+Write-Host "(4 listeyi de player'a ayri ayri ekleyin.)"
 Write-Host "(Degisiklik player'a ~5 dakika icinde yansir.)"
