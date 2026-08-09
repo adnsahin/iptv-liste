@@ -1,0 +1,3 @@
+# turk.m3u 100MB'dan buyuk oldugu icin GitHub'a siginmaz.
+# Sıkıştırılmış hali (turk.m3u.gz) repo'da tutulur; push.ps1 otomatik uretir.
+turk.m3u
